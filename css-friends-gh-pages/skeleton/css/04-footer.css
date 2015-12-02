@@ -1,0 +1,40 @@
+/* PHASE 4: Footer */
+
+.footer {
+  width: 899px;
+  margin: auto;
+  background: white;
+  color: grey;
+  position: relative;
+  height: 45px;
+  font-weight: 300;
+  font-size: 12px;
+  border: 1px solid grey;
+}
+
+
+.footer-label {
+  float: left;
+  padding-top: 15px;
+  padding-bottom: auto;
+  padding-left: 20px;
+}
+
+.footer-nav {
+
+}
+
+.footer-list {
+  display: inline;
+  float: right;
+}
+
+.footer-list li{
+  float: left;
+  display: inline;
+  padding: 15px;
+}
+
+.footer-list li:hover {
+  color: black;
+}
